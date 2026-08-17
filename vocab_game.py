@@ -123,4 +123,4 @@ if st.session_state.get("is_ended", False):
   show_result_dialog(ans1, ans2, ans3, ans4)
 
 st.divider()
-  st.write("นางสาวสุมณกัญญา ชวดต่าย เลขที่ 25 ม.4/3")
+st.write("นางสาวสุมณกัญญา ชวดต่าย เลขที่ 25 ม.4/3")
